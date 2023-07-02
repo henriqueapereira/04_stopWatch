@@ -1,0 +1,15 @@
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04_stopWatch\bin\Debug\net7.0\04_stopWatch.exe
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04_stopWatch\bin\Debug\net7.0\04_stopWatch.deps.json
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04_stopWatch\bin\Debug\net7.0\04_stopWatch.runtimeconfig.json
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04_stopWatch\bin\Debug\net7.0\04_stopWatch.dll
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04_stopWatch\bin\Debug\net7.0\04_stopWatch.pdb
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04_stopWatch\obj\Debug\net7.0\04_stopWatch.csproj.AssemblyReference.cache
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04_stopWatch\obj\Debug\net7.0\04_stopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04_stopWatch\obj\Debug\net7.0\04_stopWatch.AssemblyInfoInputs.cache
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04_stopWatch\obj\Debug\net7.0\04_stopWatch.AssemblyInfo.cs
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04_stopWatch\obj\Debug\net7.0\04_stopWatch.csproj.CoreCompileInputs.cache
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04_stopWatch\obj\Debug\net7.0\04_stopWatch.dll
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04_stopWatch\obj\Debug\net7.0\refint\04_stopWatch.dll
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04_stopWatch\obj\Debug\net7.0\04_stopWatch.pdb
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04_stopWatch\obj\Debug\net7.0\04_stopWatch.genruntimeconfig.cache
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04_stopWatch\obj\Debug\net7.0\ref\04_stopWatch.dll
